@@ -189,13 +189,13 @@ Want to see a quick tutorial on how to build this? Check out this TikTok video:
 ## How to Run the Code  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/binary-search-tree.git
-   cd binary-search-tree
+   git clone https://github.com/fix2015/structure_bst
+   cd structure_bst
    ```
-2. Open the file `binary-search-tree.js` in your favorite code editor.  
+2. Open the file `index.js` in your favorite code editor.  
 3. Run the file using Node.js:  
    ```bash
-   node binary-search-tree.js
+   node index.js
    ```
 
 ---
